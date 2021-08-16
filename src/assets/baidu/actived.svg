@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="66px" viewBox="0 0 45 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A11FA81E-C214-4E3D-91BB-A1682F31F9FB</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-139.604104%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.35" offset="100%"></stop>
+        </linearGradient>
+        <path d="M-9.32587341e-15,6.96878452e-15 L2.50576232,6.96878452e-15 C4.29230172,7.08469177e-15 5.74057805,1.44827633 5.74057805,3.23481573 L5.74057805,47.0944492 C5.74057805,48.8809886 4.29230172,50.3292649 2.50576232,50.3292649 L-9.32587341e-15,50.3292649 L-9.32587341e-15,50.3292649 L-9.32587341e-15,6.96878452e-15 Z" id="path-2"></path>
+        <filter x="-148.1%" y="-24.8%" width="535.5%" height="149.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="4" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.188235294   0 0 0 0 0.188235294   0 0 0 0 0.188235294  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="查詢結果頁數點擊30" transform="translate(-135.000000, -197.000000)" fill-rule="nonzero">
+            <g id="Navigatonal-menu" transform="translate(138.000000, 204.000000)">
+                <g id="bar" transform="translate(0.248447, 0.993789)">
+                    <rect id="light-ray" fill="url(#linearGradient-1)" x="-3.55271368e-15" y="6.96878452e-15" width="40.1840464" height="50.3292649"></rect>
+                    <g id="Indicator">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

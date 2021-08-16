@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="194px" height="52px" viewBox="0 0 194 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>88236954-DA10-425E-813B-3232CB15FCFC</title>
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首頁" transform="translate(-143.000000, -204.000000)">
+            <g id="Navigatonal-menu" transform="translate(138.000000, 204.000000)">
+                <g id="home-active" transform="translate(5.248447, 0.993789)">
+                    <polygon id="Container" points="0.74057805 0 192.740578 0 192.740578 51 0.74057805 51 0.74057805 37.4"></polygon>
+                    <text id="首页-active" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC" font-size="24" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="66.4434683" y="33.9651429">首页</tspan>
+                    </text>
+                    <g id="grid-active" transform="translate(29.443468, 14.824655)" fill="#FFFFFF" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                        <rect id="Rectangle" x="0" y="0" width="8.37246425" height="8.31589354"></rect>
+                        <rect id="Rectangle" x="13.1567295" y="0" width="8.37246425" height="8.31589354"></rect>
+                        <rect id="Rectangle" x="13.1567295" y="13.0678327" width="8.37246425" height="8.31589354"></rect>
+                        <rect id="Rectangle" x="0" y="13.0678327" width="8.37246425" height="8.31589354"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="194px" height="52px" viewBox="0 0 194 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>22454A0C-3939-4187-828F-984A16CE0D4C</title>
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首頁" transform="translate(-143.000000, -564.000000)">
+            <g id="Navigatonal-menu" transform="translate(138.000000, 204.000000)">
+                <g id="logout" transform="translate(5.200000, 360.993789)">
+                    <polygon id="Container" points="0.79 0 192.79 0 192.79 51 0.79 51 0.79 37.4"></polygon>
+                    <text id="登出" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC" font-size="24" font-weight="normal" fill="#FFFFFF" fill-opacity="0.76">
+                        <tspan x="66.8" y="33.5509949">登出</tspan>
+                    </text>
+                    <g id="lout" opacity="0.76" transform="translate(28.800000, 13.006211)">
+                        <rect id="矩形" x="0" y="0" width="23" height="25"></rect>
+                        <path d="M4.3125,23.4375 L12.9375,23.4375 C13.7310809,23.4366387 14.3742076,22.7375879 14.375,21.875 L14.375,19.53125 L12.9375,19.53125 L12.9375,21.875 L4.3125,21.875 L4.3125,3.125 L12.9375,3.125 L12.9375,5.46875 L14.375,5.46875 L14.375,3.125 C14.3742076,2.26241209 13.7310809,1.5633613 12.9375,1.5625 L4.3125,1.5625 C3.51891912,1.5633613 2.87579239,2.26241209 2.875,3.125 L2.875,21.875 C2.87579239,22.7375879 3.51891912,23.4366387 4.3125,23.4375 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="14.7961875 16.0828125 17.373625 13.28125 7.1875 13.28125 7.1875 11.71875 17.373625 11.71875 14.7961875 8.9171875 15.8125 7.8125 20.125 12.5 15.8125 17.1875"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
